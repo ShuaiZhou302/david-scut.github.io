@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Zhou / homepage"
+title                    : "David Zhou"
 title_separator          : "-"
 name                     : &name "Shuai Zhou"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "David.png"
-  name             : "Your Sidebar Name"
+  name             : "David Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Sophomore student at SCUT"
   location         : "Guangzhou, China"
-  employer         : "South China University of Technology"
+  employer         : "SCUT"
   uri              :  https://ShuaiZhou302.github.io # URL
   email            : "davidzhou718@gmail.com"
 
