@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a sophomore student from SHIEN-MING WU SCHOOL OF INTELLIGENT ENGINEERING, South China  University of Technology. I am very fortunate to be advised by [Prof. Zhongqiang Ren](https://rap-lab.github.io/) of RAP Lab from [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/), Shanghai Jiao Tong University. 
 
-My research interests lie in the area of robotics. I am particularly interested in the following topics:
+My research interests lie in the area of robotics.Particularly interested in the following topics:
 * Multi agent system
 * Motion planning
 
