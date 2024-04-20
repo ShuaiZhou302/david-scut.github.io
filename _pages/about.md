@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore student from SHIEN-MING WU SCHOOL OF INTELLIGENT ENGINEERING, South China  University of Technology. I am very fortunate to be advised by [Prof. Zhongqiang Ren](https://rap-lab.github.io/) of RAP Lab from [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/), Shanghai Jiao Tong University. 
+I'm a sophomore student at South China  University of Technology. Majoring in Robotics Engineering. Currently, I am very fortunate to be advised by Prof. Zhongqiang Ren of [RAP-Lab](https://rap-lab.github.io/) from [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/), SJTU. 
 
 My research interests lie in the area of robotics.Particularly interested in the following topics:
 * Multi agent system
@@ -15,11 +15,12 @@ My research interests lie in the area of robotics.Particularly interested in the
 
 Contact: [Email](mailto:davidzhou718@gmail.com) / [Wechat](../images/wechat.jpg) 
 
-CV: [CV](../assets/Shuai_Zhou_cv.pdf)
+Download CV: [CV](../assets/Shuai_Zhou_cv.pdf)
 
 
 Experience
 ======
-* Visiting Students, University of California, Berkeley, 2023.07 - 2023.12
 * Remote Research Intern, RAP-Lab, UM-SJTU JI, 2024.04 - present
+* Visiting Students(GPA: 4.0/4.0), University of California, Berkeley, 2023.07 - 2023.12
+* Undergraduate student(GPA: 3.93/4.00,Rank 2/56), SHIEN-MING WU School of Intelligent engineering,South China University of Technology,2022.09 - 2026.06(Expected) 
 
