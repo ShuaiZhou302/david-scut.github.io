@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "David.png"
   name             : "David Zhou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him" # example: "she/her"  
   bio              : "Sophomore student at SCUT"
   location         : "Guangzhou, China"
-  employer         : "https://www2.scut.edu.cn/wusie_en/main.htm"
+  employer         :  "SCUT-SWSIE"https://www2.scut.edu.cn/wusie_en/main.htm
   uri              :  https://ShuaiZhou302.github.io # URL
   email            : "davidzhou718@gmail.com"
 
