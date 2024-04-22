@@ -17,7 +17,7 @@ Contact: [Email](mailto:davidzhou718@gmail.com) / [Wechat](../images/wechat.jpg)
 
 For more details, please check my [CV](../assets/Shuai_Zhou_cv.pdf).
 
-If you are interested in Berkeley visiting program, please referred to this [page](https://github.com/ksDreamer/flying.gzic.online/blob/main/chu-guo-shen-zao/ucb22-ji-ji-qi-ren-Shuai-Zhou.md) (The formal sharing will be update later). If you are part of SCUT community, I strongly recommend supporting this project by sharing your experience.
+If you are undergraduate/graduate interested in Berkeley visiting program, please referred to this [Personal sharing](https://github.com/ksDreamer/flying.gzic.online/blob/main/chu-guo-shen-zao/ucb22-ji-ji-qi-ren-Shuai-Zhou.md) (The formal sharing will be update later). If you are a part of SCUT community, I strongly recommend supporting this [project](https://github.com/ksDreamer/flying.gzic.online/tree/main) by sharing your experience.
 
 
 Experience
