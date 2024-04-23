@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore student at [SWSIE](https://www2.scut.edu.cn/wusie_en/main.htm), [SCUT](https://www.scut.edu.cn/en/). Majoring in Robotics Engineering. Currently, I am very fortunate to be advised by Prof. Zhongqiang Ren of [RAP-Lab](https://rap-lab.github.io/) from [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/), [SJTU](https://en.sjtu.edu.cn/). 
+Hello there! I'm a sophomore student at [SWSIE](https://www2.scut.edu.cn/wusie_en/main.htm), [SCUT](https://www.scut.edu.cn/en/). Majoring in Robotics Engineering. Currently, I am very fortunate to be advised by Prof. Zhongqiang Ren of [RAP-Lab](https://rap-lab.github.io/) from [UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/), [SJTU](https://en.sjtu.edu.cn/). 
 
 My research interests lie in the area of robotics. Particularly interested in the following topics:
 * Multi agent/robot system
