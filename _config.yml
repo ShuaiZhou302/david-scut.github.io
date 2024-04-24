@@ -7,15 +7,7 @@
 # server process.
 
 # Basic Site Settings
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-11D77LWY4M"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-11D77LWY4M');
-</script>
 locale                   : "en-US"
 title                    : "David Zhou"
 title_separator          : "-"
@@ -144,6 +136,15 @@ social:
 
 
 # Analytics
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-11D77LWY4M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-11D77LWY4M');
+</script>
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
